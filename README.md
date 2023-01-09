@@ -2,4 +2,4 @@
 local change
 remote change
 
-local conflict
+no conflicts
